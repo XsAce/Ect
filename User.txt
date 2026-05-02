@@ -1,3 +1,3 @@
 UesrName:Admin--Password:919915--Point:Infinite--Hwid:8f72486ae15b0dfe1b339a251dc971a4--AccountStatus:Normal
 UesrName:Unstoppable--Password:123456--Point:500--Hwid:4e3f3c348d84880867c65676f202f976--AccountStatus:Normal
-UesrName:testuser123--Password:testpass456--Point:20--AccountStatus:Normal
+UesrName:123--Password:123--Point:20--AccountStatus:Normal
