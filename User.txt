@@ -12,3 +12,4 @@ UesrName:TNT--Password:TNT--Point:19--AccountStatus:Normal
 UesrName:qwq--Password:密码--Point:20--AccountStatus:Normal
 UesrName:用户名213--Password:123--Point:19--AccountStatus:Normal
 UesrName:11--Password:1--Point:20--AccountStatus:Normal
+UesrName:lk--Password:9178--Point:20--AccountStatus:Normal
