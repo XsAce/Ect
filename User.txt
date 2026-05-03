@@ -9,3 +9,4 @@ UesrName:番薯丸--Password:wzxwzx--Point:19--AccountStatus:Normal
 UesrName:白A--Password:wf800721--Point:20--AccountStatus:Normal
 UesrName:用户名9999999--Password:99999999--Point:20--AccountStatus:Normal
 UesrName:TNT--Password:TNT--Point:19--AccountStatus:Normal
+UesrName:qwq--Password:密码--Point:20--AccountStatus:Normal
