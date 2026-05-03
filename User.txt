@@ -6,3 +6,4 @@ UesrName:XsAce--Password:919915Hl.--Point:1018--AccountStatus:Normal
 UesrName:9178--Password:787891--Point:20--AccountStatus:Normal
 UesrName:2778--Password:137891--Point:20--AccountStatus:Normal
 UesrName:番薯丸--Password:wzxwzx--Point:19--AccountStatus:Normal
+UesrName:白A--Password:wf800721--Point:20--AccountStatus:Normal
