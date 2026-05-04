@@ -18,3 +18,4 @@ UesrName:用户名432432--Password:密码423432--Point:97--AccountStatus:Normal
 UesrName:qiukui--Password:12345678--Point:100--AccountStatus:Normal
 UesrName:老褚--Password:zxc5441522--Point:100--AccountStatus:Normal
 UesrName:qwe123456789--Password:qwe123456789--Point:100--AccountStatus:Normal
+UesrName:adffas--Password:123--Point:100--AccountStatus:Normal
