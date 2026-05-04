@@ -21,4 +21,4 @@ UesrName:qwe123456789--Password:qwe123456789--Point:100--AccountStatus:Normal
 UesrName:adffas--Password:123--Point:100--AccountStatus:Normal
 UesrName:hhhgss--Password:123456--Point:100--AccountStatus:Normal
 UesrName:gurt_yung--Password:Isaac_Huang--Point:100--AccountStatus:Normal
-UesrName:qiandaiyin--Password:cjr11223--Point:100--AccountStatus:Normal
+UesrName:qiandaiyin--Password:cjr11223--Point:99--AccountStatus:Normal
