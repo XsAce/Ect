@@ -16,3 +16,4 @@ UesrName:lk--Password:9178--Point:20--AccountStatus:Normal
 UesrName:1638374808--Password:1638374808--Point:19--AccountStatus:Normal
 UesrName:用户名432432--Password:密码423432--Point:97--AccountStatus:Normal
 UesrName:qiukui--Password:12345678--Point:100--AccountStatus:Normal
+UesrName:老褚--Password:zxc5441522--Point:100--AccountStatus:Normal
