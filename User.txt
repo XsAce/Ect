@@ -26,3 +26,4 @@ UesrName:龙傲天--Password:25802580--Point:100--AccountStatus:Normal
 UesrName:哇！--Password:liu123456--Point:100--AccountStatus:Normal
 UesrName:Baizhi--Password:147258369zx--Point:1100--AccountStatus:Normal
 UesrName:123456--Password:919915--Point:100--AccountStatus:Normal--HWID:8f72486ae15b0dfe1b339a251dc971a4
+UesrName:TNTEC--Password:TNTEC--Point:100--AccountStatus:Normal--HWID:333dc5a1a6ce439f29168e37bc000717
