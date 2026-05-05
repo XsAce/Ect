@@ -1,5 +1,5 @@
 UesrName:Admin--Password:919915--Point:Infinite--Hwid:8f72486ae15b0dfe1b339a251dc971a4--AccountStatus:Normal
-UesrName:CYXHSJ--Password:112233--Point:1020--AccountStatus:Normal
+UesrName:CYXHSJ--Password:112233--Point:1019--AccountStatus:Normal
 UesrName:ljk--Password:3931355110--Point:19--AccountStatus:Normal
 UesrName:用户名--Password:密码--Point:20--AccountStatus:Normal
 UesrName:XsAce--Password:919915Hl.--Point:1014--AccountStatus:Normal
