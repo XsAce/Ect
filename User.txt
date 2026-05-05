@@ -25,3 +25,4 @@ UesrName:qiandaiyin--Password:cjr11223--Point:99--AccountStatus:Normal
 UesrName:龙傲天--Password:25802580--Point:100--AccountStatus:Normal
 UesrName:哇！--Password:liu123456--Point:100--AccountStatus:Normal
 UesrName:Baizhi--Password:147258369zx--Point:1100--AccountStatus:Normal
+UesrName:123456--Password:919915--Point:100--AccountStatus:Normal--HWID:8f72486ae15b0dfe1b339a251dc971a4
