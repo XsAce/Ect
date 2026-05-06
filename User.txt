@@ -5,7 +5,7 @@ UesrName:用户名--Password:密码--Point:20--AccountStatus:Normal
 UesrName:XsAce--Password:919915Hl.--Point:1014--AccountStatus:Normal
 UesrName:9178--Password:787891--Point:20--AccountStatus:Normal
 UesrName:2778--Password:137891--Point:20--AccountStatus:Normal
-UesrName:番薯丸--Password:wzxwzx--Point:5018--AccountStatus:Normal
+UesrName:番薯丸--Password:wzxwzx--Point:5017--AccountStatus:Normal
 UesrName:白A--Password:wf800721--Point:20--AccountStatus:Normal
 UesrName:用户名9999999--Password:99999999--Point:20--AccountStatus:Normal
 UesrName:TNT--Password:TNT--Point:19--AccountStatus:Normal
