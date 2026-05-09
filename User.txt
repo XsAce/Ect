@@ -29,4 +29,4 @@ UesrName:123456--Password:919915--Point:100--AccountStatus:Normal--HWID:8f72486a
 UesrName:TNTEC--Password:TNTEC--Point:99--AccountStatus:Normal--HWID:333dc5a1a6ce439f29168e37bc000717
 UesrName:xiaose--Password:xiaose--Point:100--AccountStatus:Normal--HWID:4546531331efc6f95c157d04681db391
 UesrName:353224352--Password:32423423--Point:100--AccountStatus:Normal--HWID:0c3e86c6b608cafc994def41fb343568
-UesrName:Ptlcx--Password:123456--Point:100--AccountStatus:Normal--HWID:1726f63ab56f3b1c8b8ca6cc040c7d7a
+UesrName:Ptlcx--Password:123456--Point:99--AccountStatus:Normal--HWID:1726f63ab56f3b1c8b8ca6cc040c7d7a
