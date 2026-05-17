@@ -19,7 +19,7 @@ UesrName:qiukui--Password:12345678--Point:100--AccountStatus:Normal
 UesrName:老褚--Password:zxc5441522--Point:98--AccountStatus:Normal
 UesrName:qwe123456789--Password:qwe123456789--Point:100--AccountStatus:Normal
 UesrName:adffas--Password:123--Point:100--AccountStatus:Normal
-UesrName:hhhgss--Password:123456--Point:99--AccountStatus:Normal
+UesrName:hhhgss--Password:123456--Point:98--AccountStatus:Normal
 UesrName:gurt_yung--Password:Isaac_Huang--Point:100--AccountStatus:Normal
 UesrName:qiandaiyin--Password:cjr11223--Point:99--AccountStatus:Normal
 UesrName:龙傲天--Password:25802580--Point:100--AccountStatus:Normal
