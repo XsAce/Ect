@@ -32,3 +32,4 @@ UesrName:353224352--Password:32423423--Point:99--AccountStatus:Banned--HWID:0c3e
 UesrName:Ptlcx--Password:123456--Point:96--AccountStatus:Normal--HWID:1726f63ab56f3b1c8b8ca6cc040c7d7a
 UesrName:12345--Password:00000--Point:98--AccountStatus:Normal
 UesrName:lkzk--Password:she1988--Point:100--AccountStatus:Banned--HWID:4f8e903d48444eb737d06d7a8fd4c481
+UesrName:1234--Password:密码--Point:100--AccountStatus:Normal
